@@ -10,6 +10,7 @@
 </head>
 <body class="min-h-screen bg-gray-50 text-gray-900 dark:bg-gray-900 dark:text-gray-50 transition-colors duration-200">
     <x-themeToggle/>
+    <x-sidebar/>
          <div class="mt-10 ms-10 space-y-4">
             <x-alert>
                 This is an alert
