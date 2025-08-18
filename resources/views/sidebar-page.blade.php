@@ -1,0 +1,2 @@
+<x-themeToggle/>
+<x-sidebar/>
