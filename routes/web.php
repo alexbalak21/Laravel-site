@@ -7,6 +7,6 @@ Route::get('/', function () {
 });
 
 
-Route::get('/sidebar', function () {
-    return view('sidebar');
-});
+Route::get('/sidebar-page', function () {
+    return view('sidebar-page');
+})->name('sidebar-page');
